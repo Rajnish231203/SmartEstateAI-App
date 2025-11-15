@@ -1,0 +1,11 @@
+streamlit==1.30.0
+pandas
+numpy
+scikit-learn
+Pillow
+matplotlib
+seaborn
+plotly
+wordcloud
+category_encoders
+scipy
